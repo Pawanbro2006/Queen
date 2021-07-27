@@ -80,7 +80,7 @@ buttons = [
     ],
     [
         InlineKeyboardButton(
-            text="📜Source", url="https://www.youtube.com/watch?v=fXXEcAkWAFU"
+            text="📜Source", url="https://www.youtube.com/channel/UCXo1yz5t0d-BjOvP7FI7kVw"
         ),
         InlineKeyboardButton(
             text="❔ Help", url="http://t.me/TheQueenXbot?start=help"
